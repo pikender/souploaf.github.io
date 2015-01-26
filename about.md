@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Pikender spent his last 8 years learning to and hacking code. Started as parasite on topcoder.com SRMs problems/solutions to get better at problem solving through inspiration and enjoys applying them to real world problems. He loves being expressive and Ruby lets him be. He is interested in clean code, design patterns and other good programming practices. He has contributed to a few open source libraries like papertrail, awesome_nested_set and basic_presenter. 
 
-### More Information
+He works at 'Vinsol', one of the early adopters of Ruby/Rails and is amongst the renowned creative and technology agencies, handling complex Rails projects and actively contributing to Ruby/Rails ecosystem. He is working as Tech Architect for Nigeria's Biggest E-commerce Platform and is very keen on sharing his experminents and experiences.
 
-A place to include any other types of information that you'd like to include about yourself. 
+He is a blogger, avid podcast listener, twitter addict and a caring father.
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+### Reach me on [Twitter](http://twitter.com/pikender)
