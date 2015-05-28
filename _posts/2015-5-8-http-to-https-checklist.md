@@ -102,8 +102,8 @@ through a confirmation process which could take hours to days.
 Summary
 =======
 
-- Steps to Generate Certificates for Nginx / Servers
-- ssl_requirement
+- [Steps to Generate Certificates for Nginx / Servers](http://www.akadia.com/services/ssh_test_certificate.html)
+- [ssl_requirement](https://github.com/bartt/ssl_requirement)
 - Relative Urls for CSS / Javascript
 - Images Always Https
 - Shared Load Balancer (One for http and othet for https)
