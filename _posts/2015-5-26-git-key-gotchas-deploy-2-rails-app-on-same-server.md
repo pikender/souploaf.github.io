@@ -75,6 +75,7 @@ Only change needed is <On Local System - Deploy is attempted>
 
 - Open / Create `~/.ssh/config`
 - Add
+
 ```
 Host staging-server.com
   ForwardAgent yes
@@ -96,6 +97,7 @@ Solution 2 - [Use different SSH key](http://stackoverflow.com/questions/7927750/
   - let's call `new_rsa` for further references
 - Add the `new_rsa` key as Deploy Key in github project 
 - Add an entry in `~/.ssh/config`
+
 ```
 Host server.work
   HostName heroku.com
