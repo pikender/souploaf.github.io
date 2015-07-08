@@ -29,7 +29,7 @@ sprint_prefix = $2
 
 for branch in $(git branch -a | sed 's/^[ ]*//' | sed 's/^remotes\///' | grep -v 'master$'); do
   ## Addition to check a prefix in remote branches while deleting from remote
-  if [[ "branch" =~ "sprint_prefix/" ]]; then
+  if [[ "branch" =~ "$sprint_prefix/" ]]; then
     if [[ "$(git log $branch --since $date | wc -l)" -eq 0 ]]; then
       if [[ "$branch" =~ "origin/" ]]; then
         local_branch_name=$(echo "$branch" | sed 's/^origin\///')
