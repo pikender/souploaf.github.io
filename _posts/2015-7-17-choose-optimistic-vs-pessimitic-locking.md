@@ -67,6 +67,6 @@ Being in Rails Ecosystem and so much logic / updates implemented using
 callback pattern, **OPTIMISTIC LOCKING** seems to be an obvious choice in
 most of the cases :P
 
-**Note** : Pessimistic Locking doesn't abort the execution, it just
+**Note** : *Pessimistic Locking doesn't abort the execution, it just
  waits for transaction to finish having the lock and continues with
-execution when lock released
+execution when lock released*
