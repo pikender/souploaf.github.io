@@ -89,6 +89,9 @@ details etc
 
 ### Code Structure
 
+Here is the <a href="https://github.com/pikender/gtpay_all" target="_blank">code on github</a> to
+follow along :)
+
 #### Monlith Rails App
 
 ```sh
