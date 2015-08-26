@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Concurrency Parallel Testing / Issues Rails
+title: Testing Concurrency and Parallel Processes Issues in Rails
 ---
 
 While looking for ways to test concurrency issues and reliability of
