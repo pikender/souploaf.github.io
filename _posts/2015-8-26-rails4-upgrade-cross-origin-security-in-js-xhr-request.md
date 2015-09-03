@@ -63,6 +63,8 @@ with format=\*/\*](https://github.com/rails/rails/pull/13345#issuecomment-711146
   robots.txt
   - More on this later ... cya :)
 
+**Enjoy Rails 4 !!!**
+
 *Reference*
 
 - [PR](https://github.com/rails/rails/pull/13345)
