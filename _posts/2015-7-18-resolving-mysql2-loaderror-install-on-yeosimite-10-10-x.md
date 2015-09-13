@@ -29,6 +29,68 @@ bundle install
 ### And here come's the surprise
 mysql2 gem failed to install
 
+```ruby
+
+Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
+
+    /Users/pikender/.rvm/rubies/ruby-2.0.0-p451/bin/ruby extconf.rb 
+checking for ruby/thread.h... yes
+checking for rb_thread_call_without_gvl() in ruby/thread.h... yes
+checking for rb_thread_blocking_region()... yes
+checking for rb_wait_for_single_fd()... yes
+checking for rb_hash_dup()... yes
+checking for rb_intern3()... yes
+-----
+Using mysql_config at /usr/local/mysql/bin/mysql_config
+-----
+checking for mysql.h... yes
+checking for errmsg.h... yes
+checking for mysqld_error.h... yes
+-----
+Setting rpath to /usr/local/mysql/lib
+-----
+creating Makefile
+
+make "DESTDIR=" clean
+
+make "DESTDIR="
+compiling client.c
+compiling infile.c
+compiling mysql2_ext.c
+compiling result.c
+linking shared-object mysql2/mysql2.bundle
+couldn't understand kern.osversion `14.5.0'
+ld: warning: directory not found for option
+'-L/Users/travis/.sm/pkg/active/lib'
+ld: -rpath can only be used when targeting Mac OS X 10.5 or later
+collect2: ld returned 1 exit status
+make: *** [mysql2.bundle] Error 1
+
+make failed, exit code 2
+
+Gem files will remain installed in
+/Users/pikender/.rvm/gems/ruby-2.0.0-p451@easyerrands/gems/mysql2-0.3.20
+for inspection.
+Results logged to
+/Users/pikender/.rvm/gems/ruby-2.0.0-p451@easyerrands/extensions/x86_64-darwin-12/2.0.0-static/mysql2-0.3.20/gem_make.out
+An error occurred while installing mysql2 (0.3.20), and Bundler cannot
+continue.
+Make sure that `gem install mysql2 -v '0.3.20'` succeeds before
+bundling.
+```
+
+# Solution 1
+
+```sh
+export MACOSX_DEPLOYMENT_TARGET=10.5
+```
+
+Then `bundle install` and application will run smoothly :)
+
+[More Details](http://stackoverflow.com/a/26501617/306686)
+
+# Solution 2
+
 After a little bit of [search](https://github.com/brianmario/mysql2/issues/192#issuecomment-8701366) came across below solution and mysql2 gem
 install worked
 
