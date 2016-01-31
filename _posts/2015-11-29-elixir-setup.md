@@ -78,6 +78,12 @@ categories: elixir
     93  sudo apt-get install git-sh
     94  git-sh
 
+### Install Flux on Ubuntu Vivid 15.04
+    292  sudo add-apt-repository ppa:nathan-renniewaldock/flux
+    292  sudo apt-get update
+    294  sudo apt-get install -y fluxgui
+
+
 ## References
 
 - [Elixir - Make clean test fails](https://github.com/elixir-lang/elixir/issues/3035)
