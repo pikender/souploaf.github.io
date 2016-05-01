@@ -13,9 +13,9 @@ On inspecting further, we observed that Callback is failing at same
 point with message `NoMethodError - undefined method '[]' for nil:NilClass:` 
 and had no `Parmeters:`
 
-*_Twist in the tale is that service sends xml-encoded parameters and xml
+**_Twist in the tale is that service sends xml-encoded parameters and xml
 parameter parsing is removed from Rails 4 Core and needs to be included
-back to use the functionality :P_*
+back to use the functionality :P_**
 
 
 [A XML parameters parser for Action Pack (removed from core in Rails 4.0)](https://github.com/rails/actionpack-xml_parser)
