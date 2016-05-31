@@ -21,7 +21,7 @@ permalink: /resume/
   Opensource Ecommerce Framework written in Elixir/Phoenix.
   Core Contributor.
 
-- *Basic Presenter*
+- **Basic Presenter**  
   BasicPresenter helps separate presentation logic from models.
   Core Contributor.
 
