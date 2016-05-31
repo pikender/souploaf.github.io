@@ -18,23 +18,23 @@ permalink: /resume/
 #### Open Source Contribution
 
 - **NectarCommerce**  
-  Opensource Ecommerce Framework written in Elixir/Phoenix.
+  Opensource Ecommerce Framework written in Elixir/Phoenix.  
   Core Contributor.
 
 - **Basic Presenter**  
-  BasicPresenter helps separate presentation logic from models.
+  BasicPresenter helps separate presentation logic from models.  
   Core Contributor.
 
 - **Awesome Nested Set Gem**  
-  A solution to manage tree like structures in database in RoR Ecosystem.
+  A solution to manage tree like structures in database in RoR Ecosystem.  
   Contributed a patch to fix a bug while Oracle is chosen as database solution.
 
 - **Paper Trail Gem**  
-  A solution to maintain audit trails as the object is changed.
+  A solution to maintain audit trails as the object is changed.  
   Contributed a patch to invoke audits for only intended requests and not for all.
 
 - **Scaffoldhub Gem**  
-  A solution to get equipped with powerful custom generators.
+  A solution to get equipped with powerful custom generators.  
   Contributed a Search and an Upload Scaffold Generator.
 
 
