@@ -17,6 +17,14 @@ permalink: /resume/
 
 #### Open Source Contribution
 
+- **NectarCommerce**  
+  Opensource Ecommerce Framework written in Elixir/Phoenix.
+  Core Contributor.
+
+- *Basic Presenter*
+  BasicPresenter helps separate presentation logic from models.
+  Core Contributor.
+
 - **Awesome Nested Set Gem**  
   A solution to manage tree like structures in database in RoR Ecosystem.
   Contributed a patch to fix a bug while Oracle is chosen as database solution.
@@ -28,10 +36,6 @@ permalink: /resume/
 - **Scaffoldhub Gem**  
   A solution to get equipped with powerful custom generators.
   Contributed a Search and an Upload Scaffold Generator.
-
-- **NectarCommerce**  
-  Opensource Ecommerce Framework written in Elixir/Phoenix.
-  Core Contributor.
 
 
 #### NectarCommerce (Vinsol, Delhi)
@@ -48,7 +52,8 @@ Manages in-house deals & from different merchants and provides an interface to b
 
 Aug 2013 – Jan 2016
 
-- Team Lead, Code Reviewer, DevOps
+*Team Lead, Code Reviewer, DevOps*
+
 - Assisting Project Manager with information needed to communicate the technical challenges or alternate ways of implementing the business requirement
 - Integrated Rencredit Offline Payment Mode for Deal buyout
 - Writing APIs to be consumed by iOS and Android App
@@ -62,7 +67,7 @@ Aug 2013 – Jan 2016
 
 #### WeWork (Wework, NYC, USA)
 
-Real Estate Management Web Application – Rent Office Space for `small/large business
+Real Estate Management Web Application – Rent Office Space for small/large business
 
 *Apr 2012 – Jun 2013*
 
