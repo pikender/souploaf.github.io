@@ -17,7 +17,7 @@ permalink: /resume/
 
 #### Open Source Contribution
 
-- [**NectarCommerce**](https://github.com/vinsol/nectarcommerce)..
+- [**NectarCommerce**](https://github.com/vinsol/nectarcommerce)  
   Opensource Ecommerce Framework written in Elixir/Phoenix.  
   Core Contributor.
 
