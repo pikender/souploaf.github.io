@@ -17,23 +17,23 @@ permalink: /resume/
 
 #### Open Source Contribution
 
-- **NectarCommerce**  
+- [**NectarCommerce**](https://github.com/vinsol/nectarcommerce)..
   Opensource Ecommerce Framework written in Elixir/Phoenix.  
   Core Contributor.
 
-- **Basic Presenter**  
+- [**Basic Presenter**](https://github.com/vinsol/basic_presenter)  
   BasicPresenter helps separate presentation logic from models.  
   Core Contributor.
 
-- **Awesome Nested Set Gem**  
+- [**Awesome Nested Set Gem**](https://github.com/collectiveidea/awesome_nested_set/commit/45285d7ca4b3900745756d2037ded2f9c674a373)  
   A solution to manage tree like structures in database in RoR Ecosystem.  
   Contributed a patch to fix a bug while Oracle is chosen as database solution.
 
-- **Paper Trail Gem**  
+- [**Paper Trail Gem**](https://github.com/airblade/paper_trail/commit/4bb7306ccfa845399ef53a676935982453d51617)  
   A solution to maintain audit trails as the object is changed.  
   Contributed a patch to invoke audits for only intended requests and not for all.
 
-- **Scaffoldhub Gem**  
+- [**Scaffoldhub Gem**](https://github.com/pikender/UploadExcel)  
   A solution to get equipped with powerful custom generators.  
   Contributed a Search and an Upload Scaffold Generator.
 
