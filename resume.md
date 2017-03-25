@@ -11,7 +11,7 @@ permalink: /resume/
 **Phone:** +91 98730 81834  
 **Blog:** <https://pikender.github.io>  
 
-## Ruby on Rails Web (RoR) Developer and Sr. Tech Lead with 8 years of experience in various domains
+## Ruby on Rails Web (RoR) Developer and Sr. Tech Lead with 9+ years of experience in various domains
 
 ### PROFESSIONAL EXPERIENCE
 
@@ -37,6 +37,17 @@ permalink: /resume/
   A solution to get equipped with powerful custom generators.  
   Contributed a Search and an Upload Scaffold Generator.
 
+#### Apple Contact Us
+
+Helping ItunesConnect Partners (music/movie/tv artists, app developers, book authors and podcast creators) reach the right person for their problems with better resolution and user experience
+
+*Jul 2016 - Oct 2016* and *Feb 2017*
+
+*Developer*
+
+- Architected CMS for Topic Creation and Management
+- Integrated Apple Backend Services used for Login, Mail Sending and Analytics
+- Fixed React and Angular App bugs
 
 #### NectarCommerce (Vinsol, Delhi)
 
