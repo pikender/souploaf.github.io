@@ -1,9 +1,8 @@
 ---
 layout: page
+title: Resume
 permalink: /resume/
 ---
-
-**Resume**
 
 ## Co-founder, VibrantStack LLP  
 **Email:** <pikender.sharma@gmail.com>  

@@ -4,10 +4,29 @@ title: About
 permalink: /about/
 ---
 
-Pikender spent his last 8 years learning to and hacking code. Started as parasite on topcoder.com SRMs problems/solutions to get better at problem solving through inspiration and enjoys applying them to real world problems. He loves being expressive and Ruby lets him be. He is interested in clean code, design patterns and other good programming practices. He has contributed to a few open source libraries like papertrail, awesome_nested_set and basic_presenter. 
+I have been intrigued with computers and programming since it got first
+introduced in school and has been on learning conquest since then.
 
-He works at 'Vinsol', one of the early adopters of Ruby/Rails and is amongst the renowned creative and technology agencies, handling complex Rails projects and actively contributing to Ruby/Rails ecosystem. He is working as Tech Architect for Nigeria's Biggest E-commerce Platform and is very keen on sharing his experminents and experiences.
+Programming always presents a fresh perpective, no matter how many times you have
+solved the same problem.
 
-He is a blogger, avid podcast listener, twitter addict and a caring father.
+I started with C to learn the concepts and got introduced to **Ruby** to
+strengthen my love and passion to move forward :)
+
+Being lucky enough and used Ruby on Rails on big projects with huge
+success but always relenting to do more to scale it (against the very
+principle of Ruby - Developer Happiness). In the pursuit of alternative,
+got introduced to **Elixir** and fell in love with it :)
+
+My current areas of interest:
+
+- Alternate architectures to MVC like CQRS/ES, Trailblazer
+- Distributed systems and microservices
+- Back-end programming
+- Infrastructure, DevOps tools and practices
+
+I like to blog and tweet my learnings to share and get critiqued ;)
+
+In my free time, I like to play with my son and enjoy the pool :)
 
 ### Reach me on [Twitter](http://twitter.com/pikender)
