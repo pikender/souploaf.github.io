@@ -5,13 +5,15 @@ permalink: /resume/
 
 # Pikender Sharma
 
-## Sr. Tech Lead, Vinsol  
+## Co-founder, VibrantStack LLP  
 **Email:** <pikender.sharma@gmail.com>  
 **Skype:** pikender.sharma  
 **Phone:** +91 98730 81834  
 **Blog:** <https://pikender.github.io>  
+**LinkedIn:** <https://www.linkedin.com/in/pikendersharma/>  
+**Github:** <https://github.com/pikender>  
 
-## Ruby on Rails Web (RoR) Developer and Sr. Tech Lead with 9+ years of experience in various domains
+## Elixir and Ruby Developer solving problems with passion for more than 10 years.
 
 ### PROFESSIONAL EXPERIENCE
 
@@ -25,17 +27,42 @@ permalink: /resume/
   BasicPresenter helps separate presentation logic from models.  
   Core Contributor.
 
-- [**Awesome Nested Set Gem**](https://github.com/collectiveidea/awesome_nested_set/commit/45285d7ca4b3900745756d2037ded2f9c674a373)  
-  A solution to manage tree like structures in database in RoR Ecosystem.  
-  Contributed a patch to fix a bug while Oracle is chosen as database solution.
+- Small contributions as fixed for client projects [**Awesome Nested Set
+Gem**](https://github.com/collectiveidea/awesome_nested_set/commit/45285d7ca4b3900745756d2037ded2f9c674a373),
+[**Paper Trail
+Gem**](https://github.com/airblade/paper_trail/commit/4bb7306ccfa845399ef53a676935982453d51617)
+, [**Scaffoldhub Gem**](https://github.com/pikender/UploadExcel)  
 
-- [**Paper Trail Gem**](https://github.com/airblade/paper_trail/commit/4bb7306ccfa845399ef53a676935982453d51617)  
-  A solution to maintain audit trails as the object is changed.  
-  Contributed a patch to invoke audits for only intended requests and not for all.
+#### Anonymize data for sharing with GDPR compliances
 
-- [**Scaffoldhub Gem**](https://github.com/pikender/UploadExcel)  
-  A solution to get equipped with powerful custom generators.  
-  Contributed a Search and an Upload Scaffold Generator.
+Making data sharing accessible without revealing personal data as per
+GDPR compliances.
+
+*Feb 2018 till Date*
+
+*Developer*
+
+- Working on Phoenix Application responsible for onboarding users and
+companies interesting in sharing data and offload legal and technical
+expertise to fully managed cloud based solution
+- It's a mix of microservies written in Elixir and phoenix web app is
+the interface for real users where-in they can manage controller and
+processor of data and data sources.
+- Ecto and Phoenix goodies have made it a breeze to structure this
+enterpise grade solution for better extensibility and maintenance.
+
+#### Digital Freight Forwarder
+
+Cargo booking, tracking and customs broker.
+
+*Apr 2017 - Sept 2017*
+
+*Developer*
+
+- Helped with structuring of **CQRS/ES system with Ruby on Rails** framework
+- Worked on FCL booking and integration in dashboard for better insights
+in delays and resolution tasks like custom clearance and legal
+formalities.
 
 #### Apple Contact Us
 
