@@ -37,7 +37,7 @@ Gem**](https://github.com/airblade/paper_trail/commit/4bb7306ccfa845399ef53a6769
 Watermark is a suite of various products in Higher Education Domain. EIS
 is a result of the vision that whatever product you use, the
 transition/adoption to other products should be seemless w.r.t
-experince, workflow and data.
+experience, workflow and data.
 
 *Feb 2020 till Date / Elixir*
 
