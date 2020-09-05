@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-## Co-founder, VibrantStack LLP  
+## Team Lead, WatermarkInsights  
 **Email:** <pikender.sharma@gmail.com>  
 **Skype:** pikender.sharma  
 **Phone:** +91 98730 81834  
@@ -12,7 +12,7 @@ permalink: /resume/
 **LinkedIn:** <https://www.linkedin.com/in/pikendersharma/>  
 **Github:** <https://github.com/pikender>  
 
-## Elixir and Ruby Developer solving problems with passion for more than 10 years.
+## Elixir and Ruby Developer solving problems with passion for more than 13 years.
 
 ### PROFESSIONAL EXPERIENCE
 
@@ -32,14 +32,54 @@ Gem**](https://github.com/collectiveidea/awesome_nested_set/commit/45285d7ca4b39
 Gem**](https://github.com/airblade/paper_trail/commit/4bb7306ccfa845399ef53a676935982453d51617)
 , [**Scaffoldhub Gem**](https://github.com/pikender/UploadExcel)  
 
+#### WatermarkInsights - EIS (Education Intelligence Software)
+
+Watermark is a suite of various products in Higher Education Domain. EIS
+is a result of the vision that whatever product you use, the
+transition/adoption to other products should be seemless w.r.t
+experince, workflow and data.
+
+*Feb 2020 till Date / Elixir*
+
+*Team Lead, Developer, Code Reviewer / Elixir*
+
+- worked on solution design of seamless data integration to products
+from the centralised data store
+- solution is built keeping in mind scalability, performance, easy debugging
+and accurate reporting
+  - data is pulled, verified, transformed, ingested and made available to
+products in sub seconds
+- Elixir/Ecto are shining with their sub-sec performance and latencies
+resulting in a very low latency solution
+
+#### WatermarkInsights - Field Placement
+
+It helps University Field Placement co-ordinators decide the relevant site for a
+student field training based on customized factors to faciliate
+diverse experience at different phases of program.
+
+*July 2019 - Jan 2020*
+
+*Team Lead, Developer, Code Reviewer, DevOps / Elixir*
+
+- worked with product and developers to translate the business
+requirements into technical solutions
+- worked on integration with an internal product to have it as a opt-in module
+- designed and developed APIs for product integrations to start the
+Field Placement workflow and share the results back as workflow
+completes
+- worked on deployment of application from qa to prod, managing
+dependencies and server testing required to enable QA's/DevOps to take
+hand-over
+
 #### Anonymize data for sharing with GDPR compliances
 
 Making data sharing accessible without revealing personal data as per
 GDPR compliances.
 
-*Feb 2018 till Date*
+*Feb 2018 - July 2019*
 
-*Developer*
+*Developer / Elixir*
 
 - Working on Phoenix Application responsible for onboarding users and
 companies interesting in sharing data and offload legal and technical
@@ -56,7 +96,7 @@ Cargo booking, tracking and customs broker.
 
 *Apr 2017 - Sept 2017*
 
-*Developer*
+*Developer / Ruby*
 
 - Helped with structuring of **CQRS/ES system with Ruby on Rails** framework
 - Worked on FCL booking and integration in dashboard for better insights
@@ -67,7 +107,7 @@ formalities.
 
 Helping ItunesConnect Partners (music/movie/tv artists, app developers, book authors and podcast creators) reach the right person for their problems with better resolution and user experience
 
-*Jul 2016 - Oct 2016* and *Feb 2017*
+*Jul 2016 - Oct 2016 / Ruby* and *Feb 2017*
 
 *Developer*
 
@@ -79,7 +119,7 @@ Helping ItunesConnect Partners (music/movie/tv artists, app developers, book aut
 
 Opensource E-commerce Framework written in Elixir/Phoenix with Extension Framework to support any additional feature other than provided in core.
 
-*Feb 2016 – Present*
+*Feb 2016 – Present / Elixir*
 
 *Architect, Developer and Lead*
 
