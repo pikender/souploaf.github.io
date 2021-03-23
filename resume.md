@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-## Team Lead, WatermarkInsights  
+## Application Architect, WatermarkInsights  
 **Email:** <pikender.sharma@gmail.com>  
 **Skype:** pikender.sharma  
 **Phone:** +91 98730 81834  
@@ -12,7 +12,7 @@ permalink: /resume/
 **LinkedIn:** <https://www.linkedin.com/in/pikendersharma/>  
 **Github:** <https://github.com/pikender>  
 
-## Elixir and Ruby Developer solving problems with passion for more than 13 years.
+## Elixir and Ruby Developer, stepping up as Application Architect, solving problems with passion for more than 13 years.
 
 ### PROFESSIONAL EXPERIENCE
 
@@ -29,8 +29,7 @@ permalink: /resume/
 - Small contributions as fixed for client projects [**Awesome Nested Set
 Gem**](https://github.com/collectiveidea/awesome_nested_set/commit/45285d7ca4b3900745756d2037ded2f9c674a373),
 [**Paper Trail
-Gem**](https://github.com/airblade/paper_trail/commit/4bb7306ccfa845399ef53a676935982453d51617)
-, [**Scaffoldhub Gem**](https://github.com/pikender/UploadExcel)  
+Gem**](https://github.com/airblade/paper_trail/commit/4bb7306ccfa845399ef53a676935982453d51617), [**Elixir Excel Parser**](https://github.com/jsonkenl/xlsxir/pull/32/files)
 
 #### WatermarkInsights - EIS (Education Intelligence Software)
 
@@ -41,14 +40,17 @@ experience, workflow and data.
 
 *Feb 2020 till Date / Elixir*
 
-*Team Lead, Developer, Code Reviewer / Elixir*
+*Application Architect, Team Lead, Developer, Code Reviewer / Elixir*
 
-- worked on solution design of seamless data integration to products
+- Write Technical Design Document for components and features
+- Worked on solution design of seamless data integration to products
 from the centralised data store
-- solution is built keeping in mind scalability, performance, easy debugging
+  - solution is built keeping in mind scalability, performance, easy debugging
 and accurate reporting
   - data is pulled, verified, transformed, ingested and made available to
 products in sub seconds
+- Developed a micro-service used to work as off the process execution
+extension to handle performance concerns
 - Elixir/Ecto are shining with their sub-sec performance and latencies
 resulting in a very low latency solution
 
@@ -62,13 +64,13 @@ diverse experience at different phases of program.
 
 *Team Lead, Developer, Code Reviewer, DevOps / Elixir*
 
-- worked with product and developers to translate the business
+- Worked with product and developers to translate the business
 requirements into technical solutions
-- worked on integration with an internal product to have it as a opt-in module
-- designed and developed APIs for product integrations to start the
+- Worked on integration with an internal product to have it as a opt-in module
+- Designed and developed APIs for product integrations to start the
 Field Placement workflow and share the results back as workflow
 completes
-- worked on deployment of application from qa to prod, managing
+- Worked on deployment of application from qa to prod, managing
 dependencies and server testing required to enable QA's/DevOps to take
 hand-over
 
@@ -81,7 +83,7 @@ GDPR compliances.
 
 *Developer / Elixir*
 
-- Working on Phoenix Application responsible for onboarding users and
+- Worked on on Phoenix Application responsible for onboarding users and
 companies interesting in sharing data and offload legal and technical
 expertise to fully managed cloud based solution
 - It's a mix of microservies written in Elixir and phoenix web app is
@@ -109,7 +111,7 @@ Helping ItunesConnect Partners (music/movie/tv artists, app developers, book aut
 
 *Jul 2016 - Oct 2016 / Ruby* and *Feb 2017*
 
-*Developer*
+*Lead Developer*
 
 - Architected CMS for Topic Creation and Management
 - Integrated Apple Backend Services used for Login, Mail Sending and Analytics
@@ -127,7 +129,7 @@ Opensource E-commerce Framework written in Elixir/Phoenix with Extension Framewo
 
 Manages in-house deals & from different merchants and provides an interface to buy them.
 
-Aug 2013 – Jan 2016
+*Aug 2013 – Jan 2016 / Ruby*
 
 *Team Lead, Code Reviewer, DevOps*
 
@@ -146,7 +148,7 @@ Aug 2013 – Jan 2016
 
 Real Estate Management Web Application – Rent Office Space for small/large business
 
-*Apr 2012 – Jun 2013*
+*Apr 2012 – Jun 2013 / Ruby*
 
 *Sr. Developer and Code Reviewer*
 
@@ -176,15 +178,15 @@ Worked on various projects as developer
 
 ### TECHNICAL SKILLS
 
-- **Web Tools:** Ruby, Ruby on Rails, Elixir, Phoenix, React, Jquery, JavaScript, CSS, HTML
-- **Testing Tools:** Rspec, Cucumber, Capybara
+- **Web Tools:** Elixir, Phoenix, ELM, Ruby, Ruby on Rails, React, Jquery, JavaScript, CSS, HTML
+- **Testing Tools:** ExUnit, Rspec, Cucumber, Capybara
 - **Server Technologies:** Apache, Nginx
-- **Databases:** MySQL, PostgreSQL, Redis
+- **Databases:** PostgreSQL, Redis, MySQL
 - **Platforms:** Linux
 - **Version Control:** Git
 
 ### EDUCATION
 
-Bachelor of Technology, Computer Science & Engineering  
-Indian School of Mines, Dhanbad, India (2007)
+Bachelor of Technology, Computer Science & Engineering 
+Indian Institute of Technology (Indian School of Mines), Dhanbad, India (2007) (OGPA: 8.22/10)
 
