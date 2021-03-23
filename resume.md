@@ -42,6 +42,8 @@ experience, workflow and data.
 
 *Application Architect, Team Lead, Developer, Code Reviewer / Elixir*
 
+- Micro-services architecture with 10+ services interacting over REST APIs helping with
+data ingestion and distribution. It is managed using kubernetes with docker, consul for service discovery and Keycloak/Auth0 for authentication/authorization
 - Write Technical Design Document for components and features
 - Worked on solution design of seamless data integration to products
 from the centralised data store
@@ -49,7 +51,7 @@ from the centralised data store
 and accurate reporting
   - data is pulled, verified, transformed, ingested and made available to
 products in sub seconds
-- Developed a micro-service used to work as off the process execution
+- Developed micro-service used to work as off-the-process-execution
 extension to handle performance concerns
 - Elixir/Ecto are shining with their sub-sec performance and latencies
 resulting in a very low latency solution
@@ -64,12 +66,15 @@ diverse experience at different phases of program.
 
 *Team Lead, Developer, Code Reviewer, DevOps / Elixir*
 
+- 3-Tier application with front-end in ELM, Backend in Elixir and
+Postgresql database, interacting over REST APIs to consume and send data
+from other parties
 - Worked with product and developers to translate the business
 requirements into technical solutions
-- Worked on integration with an internal product to have it as a opt-in module
-- Designed and developed APIs for product integrations to start the
+- Designed and developed REST APIs for product integrations to start the
 Field Placement workflow and share the results back as workflow
 completes
+- Worked on integration with an internal product to have it as a opt-in module
 - Worked on deployment of application from qa to prod, managing
 dependencies and server testing required to enable QA's/DevOps to take
 hand-over
@@ -83,12 +88,17 @@ GDPR compliances.
 
 *Developer / Elixir*
 
-- Worked on on Phoenix Application responsible for onboarding users and
+- Worked on Phoenix Application responsible for onboarding users and
 companies interesting in sharing data and offload legal and technical
 expertise to fully managed cloud based solution
-- It's a mix of microservies written in Elixir and phoenix web app is
-the interface for real users where-in they can manage controller and
-processor of data and data sources.
+- Worked on packaging the solution for off-site usage with only
+dependency to update latest Data Science models using docker image
+- It's a mix of microservices, managed over kubernetes using docker, written in Elixir (data pipelines), Python (Data Science) and phoenix web app is the interface for real users where-in they can manage controller and processor of data and data sources.
+- Interesting usage of Erlang Ports to share Python Data Science scripts
+execution progress over websockets to Phoenix Webapp
+- Exposure to Azure Service Bus - Receiver / Sender Implementation using amqp 1.0
+- Exposure to Hashicorp Vault for encrypting/decrypting client data
+store passwords and 2-factor auth using Google Authenticator
 - Ecto and Phoenix goodies have made it a breeze to structure this
 enterpise grade solution for better extensibility and maintenance.
 
@@ -101,6 +111,9 @@ Cargo booking, tracking and customs broker.
 *Developer / Ruby*
 
 - Helped with structuring of **CQRS/ES system with Ruby on Rails** framework
+- Exposure to AWS SQS (message queue) to process AWS S3 lifecycle events to load
+EDI/IFTSAI files to generate events based on route schedule and process
+to build an event store
 - Worked on FCL booking and integration in dashboard for better insights
 in delays and resolution tasks like custom clearance and legal
 formalities.
@@ -131,11 +144,13 @@ Manages in-house deals & from different merchants and provides an interface to b
 
 *Aug 2013 – Jan 2016 / Ruby*
 
-*Team Lead, Code Reviewer, DevOps*
+*Senior Team/Technical Lead, Code Reviewer, DevOps*
 
 - Assisting Project Manager with information needed to communicate the technical challenges or alternate ways of implementing the business requirement
 - Integrated Rencredit Offline Payment Mode for Deal buyout
-- Writing APIs to be consumed by iOS and Android App
+- Designed and developed REST APIs to be consumed by iOS and Android App
+- Worked on all aspects of the application like architecture, development, deployment,
+scaling, performance of webapp and REST APIs for mobile apps
 - Lead and developed Multi-variant system for Deals
 - Directed and lead the conversion of Multi-page checkout system as single page for better usability
 - Lead the implementation of packages to Order Management for better visibility and operations
@@ -178,10 +193,15 @@ Worked on various projects as developer
 
 ### TECHNICAL SKILLS
 
-- **Web Tools:** Elixir, Phoenix, ELM, Ruby, Ruby on Rails, React, Jquery, JavaScript, CSS, HTML
+- **Web Tools:** Elixir, Phoenix, Ruby, Ruby on Rails, React, ELM, Vuejs, Jquery, JavaScript, CSS, HTML
 - **Testing Tools:** ExUnit, Rspec, Cucumber, Capybara
+- **API Design:** Rest API (OpenAPI specification)
 - **Server Technologies:** Apache, Nginx
-- **Databases:** PostgreSQL, Redis, MySQL
+- **Deployment:** Kubernetes (Beginner), Docker (Intermediate), Ansible
+(Beginner)
+- **Databases:**
+  - **RDBMS:** PostgreSQL, MySQL
+  - **NoSQL:** Redis as Cache, PostgreSQL JSONB for unstructured data, MongoDB (Beginner)
 - **Platforms:** Linux
 - **Version Control:** Git
 
